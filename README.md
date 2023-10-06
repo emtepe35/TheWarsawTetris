@@ -1,9 +1,12 @@
 # TheWarsawTetris
 JS Port of 8bit Atari game "The Warsaw Tetris (1989)"
 
-Written in TypeScript with Vite
+Written in TypeScript + Vite. 
+The game was originally made for 8bit Atari by Arkadiusz Łukszo, Tomasz Konatkowski and Jakub Husak in 1989. 
+I've created this port for my school exam.
 
 TO RUN!
 1. Install all node modules
-2. run Vite (command: vite)
+2. Run Vite (command: vite)
 3. Open localhost link in web browser
+4. Hit Enter to start, navigate by arrows
