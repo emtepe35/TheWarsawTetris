@@ -10,3 +10,6 @@ TO RUN!
 2. Run Vite (command: vite)
 3. Open localhost link in web browser
 4. Hit Enter to start, navigate by arrows
+
+How does it look like:
+![Tetris](https://github.com/emtepe35/TheWarsawTetris/blob/main/screenshot.png)
